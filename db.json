@@ -1,0 +1,52 @@
+{
+    "Categories": [
+        {
+            "id": 1,
+            "title": "Alimentação"
+        },
+        {
+            "id": 2,
+            "title": "Receitas"
+        },
+        {
+            "id": 3,
+            "title": "Lazer"
+        },
+        {
+            "id": 4,
+            "title": "Moradia"
+        },
+        {
+            "id": 5,
+            "title": "Investimento"
+        },
+        {
+            "id": 6,
+            "title": "Investimento"
+        },
+        {
+            "id": 7,
+            "title": "Investimento"
+        },
+        {
+            "id": 8,
+            "title": "Investimento"
+        },
+        {
+            "id": 9,
+            "title": "Investimento"
+        },
+        {
+            "id": 10,
+            "title": "Investimento"
+        },
+        {
+            "id": 11,
+            "title": "Investimento"
+        },
+        {
+            "id": 12,
+            "title": "Investimento"
+        }
+    ]
+}
